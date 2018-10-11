@@ -27,6 +27,11 @@ html {
   text-align: left;
 }
 
+.cards img {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
 .cards strong {
   display: block;
   margin-bottom: 1rem;
